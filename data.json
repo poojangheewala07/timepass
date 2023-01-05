@@ -1,0 +1,45 @@
+{
+    "user1": {
+        "id": 1,
+        "firstname": "Harsh",
+        "lastname": "Gajjar",
+        "email": "Harsh@gmail.com"
+    },
+    "user2": {
+        "id": 2,
+        "firstname": "Sakshi",
+        "lastname": "Rangawala",
+        "email": "sakshi@gmail.com"
+    },
+    "user3": {
+        "id": 3,
+        "firstname": "Poojan",
+        "lastname": "Gheewala",
+        "email": "poojan@gmail.com"
+    },
+    "user4": {
+        "id": 4,
+        "firstname": "Vivek",
+        "lastname": "Lakhalani",
+        "email": "vivek@gmail.com"
+    },
+    "user5": {
+        "id": 5,
+        "firstname": "Dhruvi",
+        "lastname": "Rana",
+        "email": "dhruvi@gmail.com"
+    },
+    "user6": {
+        "id": 6,
+        "firstname": "Pooja",
+        "lastname": "patel",
+        "email": "pooja@gmail.com"
+    },
+    "user7": {
+        "id": 7,
+        "firstname": "Jeshna",
+        "lastname": "patel",
+        "email": "jeshan@gmail.com"
+    }
+}
+
